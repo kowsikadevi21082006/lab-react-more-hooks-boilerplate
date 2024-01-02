@@ -3,7 +3,7 @@ import React from 'react'
 const TodoItem = ({item : { data, isHidden } , index,dispatch}) => {
   return (
     <div style={{
-        backgroundColor : "red",
+        backgroundColor : "blue",
         width : "60vw" , 
         filter : `${isHidden?"blur()" : "blur()"}`
     }}>
