@@ -20,7 +20,7 @@ const todoreducer = (state,action) => {
 
 const initialState = [
     {
-        data : "First Item.." ,
+        data : "Type here something here.." ,
         isHidden : false
     }
 ]
