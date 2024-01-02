@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Usereducer from '../../src/concepts/Usereducer'
+import Usereducer from './concepts/Usereducer'
 import './App.css'
 import Todoapp from '../../src/components/Todoapp'
 
